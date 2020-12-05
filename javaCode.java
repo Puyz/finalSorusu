@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        // Türkiye Covid-19 ile mücadele ile başlatmış olduğu şehirler arası en düşük vaka sayısı yarışması.
+        
         String city_Name = "";
         int caseCount = 0;
         boolean first = false;
