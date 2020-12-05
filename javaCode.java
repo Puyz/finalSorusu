@@ -12,7 +12,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // Şehir isimlerinin ve vaka sayılarının girilmesi için döngü
-        // (81 il olduğu için,  81 döngü olması gerekir fakat örnek program olduğu için 3 döngü yeterlidir.)
         for (int i = 1; i <= 3; i++)
         {
             System.out.print("Şehir ismi: ");
